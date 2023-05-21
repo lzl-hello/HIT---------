@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Content-Type: image/png
+Content-Length: 1923
+Connection: keep-alive
+Date: Fri, 07 Apr 2023 10:10:58 GMT
+Server: Server
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Last-Modified: Fri, 18 Oct 2019 13:02:20 GMT
+ETag: "783-5952ef1bd380e"
+X-Varnish: 175966951 163383847
+Age: 240
+Via: 1.1 varnish-v4
+X-Varnish-Cache: HIT
+Accept-Ranges: bytes
+
+‰PNG
+
+
